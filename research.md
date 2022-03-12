@@ -2,7 +2,6 @@
 layout: default
 permalink: /research/
 ---
-
 # Research
 
 ## Published papers (most recent first)
