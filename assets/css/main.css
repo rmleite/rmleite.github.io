@@ -1,12 +1,18 @@
 body {
-    background-color: #F7F9FB;
-    font-family: 'Roboto'; font-size: 18px; font-weight: 200;
+  background-color: #F7F9FB;
+  font-family: 'Roboto'; font-size: 18px; font-weight: 200;
 }
 
-h1 h2 h3 {
+h1, h2, h3 {
   color: #687864;
 }
 
 a {
-    color: #31708E;
+  color: #31708E;
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  list-style: none;
 }
