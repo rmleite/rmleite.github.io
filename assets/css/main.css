@@ -12,7 +12,9 @@ a {
   text-decoration: none;
 }
 
-nav {
+nav ul {
   display: flex;
   list-style: none;
+  margin-left: 10px;
+  margin-right: 10px;
 }
