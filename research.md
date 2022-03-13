@@ -4,7 +4,7 @@ permalink: /research/
 ---
 # Research
 
-## Published papers (most recent first)
+### Published papers (most recent first)
 
 - ["Do customers flee from HIV? A survey of HIV stigma and its potential economic consequences for small businesses in Tshwane (Pretoria), South Africa"](https://doi.org/10.1007/s10461-016-1463-1) with Li-Wei Chao, Helena Szrek, Karl Peltzer, and Shandir Ramlagan (2017).  *AIDS and Behavior*, 21(1): 217-226.
 

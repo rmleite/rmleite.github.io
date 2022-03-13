@@ -3,21 +3,28 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto' >
   <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 </head>
 
 <body>
 
-<nav>
-  <ul>
-    {% for item in site.data.menu %}
-      <li><a href="{{ item.link }}">{{ item.title }}</a></li>
-    {% endfor %}
-  </ul>
-</nav>
+<div class="topnav">
+  <nav>
+    <ul>
+      {% for item in site.data.menu %}
+        <li><a href="{{ item.link }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</div>
 
-{{ content }}
+<div class="content">
+  {{ content }}
+</div>
+
+<div class="footer">
+  &copy 2022 Rui Leite.
+</div>
 
 </body>
 </html>
