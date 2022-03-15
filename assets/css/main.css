@@ -5,6 +5,7 @@ body {
   padding-left: 20px;
   padding-right: 20px;
   font-family: 'Montserrat', serif; font-size: 18px; font-weight: 400;
+  font-display: block;
 }
 
 h1, h2, h3 {
