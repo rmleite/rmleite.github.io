@@ -20,22 +20,26 @@
 
 <body>
 
-<div class="topnav">
-  <nav>
-    <ul>
-      {% for item in site.data.menu %}
-        <li><a href="{{ item.link }}">{{ item.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
-</div>
+<div class="holding_box">
 
-<div class="content">
-  {{ content }}
-</div>
+  <div class="topnav">
+    <nav>
+      <ul>
+        {% for item in site.data.menu %}
+          <li><a href="{{ item.link }}">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
 
-<div class="footer">
-  &copy 2022 Rui Leite.
+  <div class="content">
+    {{ content }}
+  </div>
+
+  <div class="footer">
+    &copy 2022 Rui Leite.
+  </div>
+
 </div>
 
 </body>
