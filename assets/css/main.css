@@ -3,17 +3,22 @@
     src: url('../fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Regular.ttf') format('truetype');
+}
+
 body {
-  background-color: #F7F9FB;
+  background-color: #FFFFFF;
   padding-left: 20px;
   padding-right: 20px;
-  font-family: 'Montserrat', serif; font-size: 18px; font-weight: 400;
+  font-family: 'Lato'; font-size: 18px; font-weight: 400;
   font-display: block;
 }
 
 h1, h2, h3 {
   color: #687864;
-  font-weight: 600;
+  font-family: 'Montserrat'; font-weight: 800;
 }
 
 a {
@@ -27,11 +32,11 @@ a {
 }
 
 .topnav {
-  font-weight: 600;
+  font-family: 'Montserrat'; font-weight: 800;
 }
 
 .topnav a:hover {
-  text-decoration: underline 2px;
+  text-decoration: underline 3px;
 }
 
 .topnav nav ul {
