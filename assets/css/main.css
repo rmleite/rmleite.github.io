@@ -16,11 +16,6 @@ body {
   font-display: block;
 }
 
-h1, h2, h3 {
-  color: #687864;
-  font-family: 'Montserrat', sans-serif; font-weight: 800;
-}
-
 a {
   color: #31708E;
   text-decoration: none;
@@ -56,6 +51,11 @@ a {
 
 .content a:hover {
   text-decoration: underline;
+}
+
+.content h1, h2, h3 {
+  color: #687864;
+  font-family: 'Montserrat', sans-serif; font-weight: 800;
 }
 
 .footer {
