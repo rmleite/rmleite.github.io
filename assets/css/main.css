@@ -18,7 +18,7 @@ body {
 
 h1, h2, h3 {
   color: #687864;
-  font-family: 'Montserrat'; font-weight: 600;
+  font-family: 'Montserrat'; font-weight: 800;
 }
 
 a {
@@ -32,7 +32,7 @@ a {
 }
 
 .topnav {
-  font-family: 'Montserrat'; font-weight: 600;
+  font-family: 'Montserrat'; font-weight: 800;
 }
 
 .topnav a:hover {
