@@ -1,11 +1,11 @@
-- title: "Rui Leite"
+- navbar_label: "Rui Leite"
   link: /
 
-- title: "Research"
+- navbar_label: "Research"
   link: /research/
 
-- title: "Teaching"
+- navbar_label: "Teaching"
   link: /teaching/
 
-- title: "Contacts"
+- navbar_label: "Contacts"
   link: /contacts/
