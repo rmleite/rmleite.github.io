@@ -5,8 +5,9 @@ title: Contacts
 ---
 # Contacts
 
-Colégio do Espírito Santo, Office 252 \
-Rua do Cardeal Rei 6 \
-7000-645 Évora, Portugal
+Office 252 \
+Colégio do Espírito Santo \
+Largo dos Colegiais, 2 \
+7000-803 Évora, Portugal
 
 E-mail: rui.leite@uevora.pt

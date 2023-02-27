@@ -10,8 +10,8 @@ title: Teaching
 
 - Principles of Macroeconomics, Undergraduate (first year) - 2023
 
-### Past teaching
-- Macroeconomics I, PhD in Economics ([School of Economics and Management, University of Porto](http://www.fep.up.pt){:target="_blank"}) - 2021
+### University of Porto
+- Macroeconomics I, PhD in Economics ([School of Economics and Management, University of Porto](http://www.fep.up.pt){:target="_blank"}) - 2021, 2022
 
 - Macroeconomics II, PhD in Economics ([School of Economics and Management, University of Porto](http://www.fep.up.pt){:target="_blank"}) - 2020, 2021, 2022
 
