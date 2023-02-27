@@ -11,10 +11,10 @@ title: Teaching
 - Principles of Macroeconomics, Undergraduate (first year) - 2023
 
 ### University of Porto
-- Macroeconomics I, PhD in Economics ([School of Economics and Management, University of Porto](http://www.fep.up.pt){:target="_blank"}) - 2021, 2022
+- Macroeconomics I, PhD in Economics ([FEP](http://www.fep.up.pt){:target="_blank"}) - 2021, 2022
 
-- Macroeconomics II, PhD in Economics ([School of Economics and Management, University of Porto](http://www.fep.up.pt){:target="_blank"}) - 2020, 2021, 2022
+- Macroeconomics II, PhD in Economics ([FEP](http://www.fep.up.pt){:target="_blank"}) - 2020, 2021, 2022
 
-- Health Economics, Masters in Public Health ([School of Medicine, University of Porto](http://www.fm.up.pt){:target="_blank"}) - 2020
+- Health Economics, Masters in Public Health ([FMUP](http://www.fm.up.pt){:target="_blank"}) - 2020
 
-- Health Economics, Public Health Specialisation Course ([Public Health Institute, University of Porto](http://ispup.up.pt){:target="_blank"}) - 2020, 2021, 2022
+- Health Economics, Public Health Specialisation Course ([ISPUP](http://ispup.up.pt){:target="_blank"}) - 2020, 2021, 2022
