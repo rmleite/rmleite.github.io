@@ -1,6 +1,6 @@
 ---
 layout: default
 permalink: /
-title: Researcher in Economics at Cef.UP
+title: Rui Leite's Homepage
 ---
-Welcome. I am a researcher at the [Center for Economics and Finance](http://cefup.fep.up.pt){:target="_blank"} of the University of Porto.
+Welcome. I am an Assistant Professor of Economics at the [School of Social Sciences](https://www.ecs.uevora.pt/){:target="_blank"}, [University of Évora](https://www.uevora.pt/){:target="_blank"}.

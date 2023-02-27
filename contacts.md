@@ -5,9 +5,9 @@ title: Contacts
 ---
 # Contacts
 
-Office 308 \
-Faculdade de Economia da Universidade do Porto \
-Rua Dr. Roberto Frias \
-4200-464 Porto, Portugal
+Colégio do Espírito Santo, Office 252\
+Universidade de Évora \
+R. do Cardeal Rei 6 \
+7000-645 Évora, Portugal \
 
-E-mail: rlousada@fep.up.pt
+E-mail: rui.leite@uevora.pt

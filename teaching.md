@@ -5,12 +5,16 @@ title: Teaching
 ---
 # Teaching
 
-### Macroeconomics
-- Macroeconomics I, PhD in Economics ([Faculdade de Economia da Universidade do Porto](http://www.fep.up.pt){:target="_blank"}) - 2021
+### University of Évora
+- Principles of Microeconomics, Undergraduate (first year) - 2023
 
-- Macroeconomics II, PhD in Economics ([Faculdade de Economia da Universidade do Porto](http://www.fep.up.pt){:target="_blank"}) - 2020, 2021, 2022
+- Principles of Macroeconomics, Undergraduate (first year) - 2023
 
-### Health Economics
-- Health Economics, Masters in Public Health ([Faculdade de Medicina da Universidade do Porto](http://www.fm.up.pt){:target="_blank"}) - 2020
+### Past teaching
+- Macroeconomics I, PhD in Economics ([School of Economics and Management, University of Porto](http://www.fep.up.pt){:target="_blank"}) - 2021
 
-- Health Economics, Public Health Specialisation Course ([Instituto de Saúde Pública da Universidade do Porto](http://ispup.up.pt){:target="_blank"}) - 2020, 2021, 2022
+- Macroeconomics II, PhD in Economics ([School of Economics and Management, University of Porto](http://www.fep.up.pt){:target="_blank"}) - 2020, 2021, 2022
+
+- Health Economics, Masters in Public Health ([School of Medicine, University of Porto](http://www.fm.up.pt){:target="_blank"}) - 2020
+
+- Health Economics, Public Health Specialisation Course ([Public Health Institute, University of Porto](http://ispup.up.pt){:target="_blank"}) - 2020, 2021, 2022
