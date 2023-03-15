@@ -17,13 +17,7 @@
     src: url('../fonts/Lato-Regular.ttf') format('truetype');
 }
 
-html, body {
-  height: 100%;
-}
-
 body {
-  display: flex;
-  flex-direction: column;
   background-color: #FFFFFF;
   padding-left: 20px;
   padding-right: 20px;
@@ -42,7 +36,6 @@ a {
 
 .topnav {
   font-family: 'Montserrat-ExtraBold', sans-serif;
-  flex-shrink: 0;
 }
 
 .topnav a:hover {
@@ -63,7 +56,6 @@ a {
 .content {
   padding-top: 10px;
   padding-bottom: 20px;
-  flex: 1 0 auto;
 }
 
 .content a:hover {
@@ -78,5 +70,4 @@ a {
 .footer {
   color: #687864;
   font-family: 'Montserrat-ExtraLight', sans-serif; font-size: 14px;
-  flex-shrink: 0;
 }
